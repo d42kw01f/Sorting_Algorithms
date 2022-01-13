@@ -52,10 +52,6 @@ if __name__ == '__main__':
     UserArr = UserMenue(UserChoice)
     print('The self.Array is --> {}'.format(UserArr))
 
-    # # Userself.Arr = ['123', '2313', '3412412', '12']
-    # Userself.Arr = [1, 2, 3, 4]
-    # Userself.Arr = [801889, 968011, 562363, 953134, 85356, 308539, 104232, 666504, 42130, 621394, 71463, 327225, 873066, 234777, 115901, 812591, 253243, 887371, 598509, 255978]
-
     print("\n\t\tSorting started...\n")
     start_time = time.time()
     SortArr = SortingAlgo(UserArr)
