@@ -1,0 +1,9 @@
+,Algorithms,Array Size,Time,Comparisons
+0,Selection,20,0.0777,190
+1,Insertion,20,0.0331,93
+2,Merge,20,0.0648,88
+3,Quick,20,0.0341,19
+4,Bubble,20,0.0398,190
+5,Optimal Bubble,20,0.0198,19
+6,General-Counting,20,0.0536,0
+7,Heap,20,0.0885,54
